@@ -1,1 +1,1 @@
-<h3> Bank Management System Project (Group Project): Collaborated in a team to develop a Bank Management System using SQL, handling various aspects like customer management, accounts, loans, and credit cards. Worked together on database design, writing complex SQL queries, and ensuring data consistency. Key contributions included transaction management, loan processing, and generating reports, while addressing performance optimization, data security, and regulatory compliance. </h3>
+
